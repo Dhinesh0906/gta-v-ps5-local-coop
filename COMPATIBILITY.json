@@ -1,0 +1,38 @@
+{
+  "packageVersion": "043",
+  "game": {
+    "titleId": "PPSA04264",
+    "version": "01.011.001"
+  },
+  "splitFirmwareAllowlist": [
+    "13.42",
+    "13.60"
+  ],
+  "allFirmwareSupported": false,
+  "tested": {
+    "13.42": "043 live menu/co-op/split-screen confirmed",
+    "13.60": "original 040 historically confirmed; 043 new camera guard not runtime verified"
+  },
+  "freshOfflineColdRestartVerified043": false,
+  "saveDataIncluded": false,
+  "accountSpecificDataIncluded": false,
+  "hostComputerRequiredDuringPlay": false,
+  "debuggerPort": 744,
+  "recoveryManagerPort": 8084,
+  "runtimeHost": "127.0.0.1",
+  "payloads": {
+    "gta5-coop-autoload-043.elf": {
+      "bytes": 1108976,
+      "sha256": "f36b6b0bb6f16f539b7a9a00006e8a2f68bb445c9b411b329916dd3b4e782604"
+    },
+    "gta5-coop-autoload-040.elf": {
+      "bytes": 1108928,
+      "sha256": "cd361593592a30abb471d8d53fb1481f9a7e2676f5d3f8db32a14d9e9081902c"
+    },
+    "ps5debug-NG_v1.3.2-local.elf": {
+      "bytes": 4043608,
+      "sha256": "1fdfd3e94562de9c7b0d0c1f3636e4aea666eda0f00567f975292ad74832ab23"
+    }
+  },
+  "fullNativePlayerControlParity": false
+}

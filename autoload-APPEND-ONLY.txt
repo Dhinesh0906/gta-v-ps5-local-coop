@@ -1,0 +1,4 @@
+!10000
+ps5debug-NG_v1.3.2-local.elf
+!2000
+gta5-coop-autoload-043.elf

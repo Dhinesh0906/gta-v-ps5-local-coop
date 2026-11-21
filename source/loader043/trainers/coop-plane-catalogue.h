@@ -1,0 +1,50 @@
+/* Exact menu model hashes for bounded plane auditing. Regenerated and
+ * checked by the session builder. (AI-assisted) */
+static const u32 coop_plane_catalogue[]={
+    3929093893u, /* alkonost */
+    2771347558u, /* alphaz1 */
+    2176659152u, /* avenger */
+    408970549u, /* avenger2 */
+    3868033424u, /* avenger3 */
+    4225674290u, /* avenger4 */
+    1824333165u, /* besra */
+    4143991942u, /* blimp */
+    3681241380u, /* blimp2 */
+    3987008919u, /* blimp3 */
+    4262088844u, /* bombushka */
+    368211810u, /* cargoplane */
+    2336777441u, /* cargoplane2 */
+    3650256867u, /* cuban800 */
+    3393804037u, /* dodo */
+    970356638u, /* duster */
+    84351789u, /* duster2 */
+    3287439187u, /* howard */
+    970385471u, /* hydra */
+    1058115860u, /* jet */
+    3013282534u, /* lazer */
+    621481054u, /* luxor */
+    3080673438u, /* luxor2 */
+    2548391185u, /* mammatus */
+    2531412055u, /* microlight */
+    165154707u, /* miljet */
+    3545667823u, /* mogul */
+    1565978651u, /* molotok */
+    2999939664u, /* nimbus */
+    1036591958u, /* nokota */
+    2908775872u, /* pyro */
+    239897677u, /* raiju */
+    3319621991u, /* rogue */
+    3902291871u, /* seabreeze */
+    3080461301u, /* shamal */
+    2594093022u, /* starling */
+    191916658u, /* streamer216 */
+    1692272545u, /* strikeforce */
+    2172210288u, /* stunt */
+    1981688531u, /* titan */
+    858355070u, /* titan2 */
+    1043222410u, /* tula */
+    2621610858u, /* velum */
+    1077420264u, /* velum2 */
+    1341619767u, /* vestra */
+    447548909u, /* volatol */
+};
